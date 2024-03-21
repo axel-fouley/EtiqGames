@@ -370,7 +370,7 @@ html {
     font-size: 12px !important;
     line-height: 14px !important;
     text-decoration: none !important;
-    display: inline-block !important;
+    display: none !important;
     position: fixed !important;
     top: auto !important;
     bottom: 12px !important;
